@@ -1,0 +1,1 @@
+gcc -o main APP/main.c HAL/hal.c LIST/list.c READFAT/readFat.c -I"./HAL" -I"./LIST" -I"./READFAT"
